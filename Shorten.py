@@ -1,4 +1,5 @@
 from moviepy.editor import *
+# User must have moviepy library installed
 
 def cut_and_save_video():
     # Get user input for file name, start time, and end time
